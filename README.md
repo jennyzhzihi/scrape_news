@@ -1,2 +1,2 @@
-# Search news using NewsApiClient
-### more command can be found at https://github.com/mattlisiv/newsapi-python
+# Search news using NewsApiClient ###provided under MIT License by Matt Lisivick.
+### more commands can be found at https://github.com/mattlisiv/newsapi-python
